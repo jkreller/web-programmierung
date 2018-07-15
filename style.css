@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+.not-parse {
+  display: block;
+}
+
+.hide {
+  display: none;
+}
+
+article {
+  cursor: pointer;
+  user-select: none;
+}
